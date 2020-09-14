@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.exe
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.deps.json
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.runtimeconfig.json
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.runtimeconfig.dev.json
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.dll
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\bin\Debug\netcoreapp3.1\CsharpTricks.pdb
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.dll
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.pdb
+C:\Users\sever\workspace\csharp\practice\CsharpTricks\obj\Debug\netcoreapp3.1\CsharpTricks.genruntimeconfig.cache
